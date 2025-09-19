@@ -37,11 +37,12 @@ The project demonstrates **core AI concepts** such as states, actions, rewards, 
 ## Project Structure
 
 AI_GameBot/
-├─ ai_gamebot.ipynb # Jupyter notebook with code and explanations
-├─ ai_gamebot.py # Python script version for direct execution
-├─ README.md # Project description
-├─ requirements.txt # Dependencies (NumPy, Matplotlib)
-└─ demo_images/ # Optional: screenshots or learning curve plots
+│
+├─ ai_gamebot.ipynb       # Jupyter notebook with code and explanations
+├─ ai_gamebot.py          # Python script version for direct execution
+├─ README.md              # Project description
+├─ requirements.txt       # Dependencies (NumPy, Matplotlib)
+└─ demo_images/           # Optional: screenshots or learning curve plots
 
 ## Installation & Usage
 
