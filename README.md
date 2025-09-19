@@ -38,18 +38,18 @@ The project demonstrates **core AI concepts** such as states, actions, rewards, 
 
 
 - AI_GameBot/
-  - ai_gamebot.ipynb        # Jupyter notebook with code and explanations
-  - ai_gamebot.py           # Python script version for direct execution
-  - README.md               # Project description
-  - requirements.txt        # Dependencies (NumPy, Matplotlib)
-  - demo_images/            # Optional: screenshots or learning curve plots
+  - ai_gamebot project.ipynb     # jupyter notebook with code and explanations
+  - ai_gamebot project .py       # Python script version for direct execution
+  - README.md                    # Project description
+  - requirements.txt             # Dependencies (NumPy, Matplotlib)
+  - demo_images/                 # Optional: screenshots or learning curve plots
 
 
 ## Installation & Usage
 
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/AI_GameBot.git
+git clone https://github.com/vigneshs007/AI_GameBot.git
 cd AI_GameBot
 
 ## Install dependencies:
@@ -58,10 +58,10 @@ pip install -r requirements.txt
 
 ## Run the notebook or Python script:
 
-Jupyter Notebook: Open ai_gamebot.ipynb and run cells step by step.
+Jupyter Notebook: Open ai_gamebot project.ipynb and run cells step by step.
 
 
-Python Script: python ai_gamebot.py
+Python Script: python ai_gamebot project.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
