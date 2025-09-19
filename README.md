@@ -72,7 +72,69 @@ The project demonstrates \*\*core AI concepts\*\* such as states, actions, rewar
 
 
 
-\## Project Structure
+## Project Structure
+
+AI_GameBot/
+├─ ai_gamebot.ipynb # Jupyter notebook with code and explanations
+├─ ai_gamebot.py # Python script version for direct execution
+├─ README.md # Project description
+├─ requirements.txt # Dependencies (NumPy, Matplotlib)
+
+
+## Installation & Usage
+1. **Clone the repository:**
+```bash
+git clone https://github.com/YourUsername/AI_GameBot.git
+cd AI_GameBot
+
+└─ demo_images/ # Optional: screenshots or learning curve plots
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run the notebook or Python script:
+
+Jupyter Notebook: Open ai_gamebot.ipynb and run cells step by step.
+
+Learning Outcomes
+
+Understand reinforcement learning concepts: states, actions, rewards, Q-values, ε-greedy policy.
+
+Learn to train and evaluate an AI agent in a simulated environment.
+
+Gain experience with Python programming and object-oriented design.
+
+Visualize AI learning progress using Matplotlib.
+
+Practice proper project structuring and documentation for GitHub.
+
+Optional Enhancements
+
+Implement more sophisticated opponents (e.g., minimax algorithm).
+
+Add a GUI for interactive gameplay using Tkinter or Pygame.
+
+Extend Q-Learning to other simple board games for practice.
+
+Tech Stack
+
+Python
+
+NumPy
+
+Matplotlib
+
+Q-Learning (Reinforcement Learning)
+
+Git & GitHub
+
+Author
+
+Vignesh S – MSc Data Science Student
+GitHub: https://github.com/vigneshs007
 
 
 
