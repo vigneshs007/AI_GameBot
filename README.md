@@ -52,16 +52,19 @@ Clone the repository:
 git clone https://github.com/vigneshs007/AI_GameBot.git
 cd AI_GameBot
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Install dependencies:
 
 pip install -r requirements.txt
 
+
 ## Run the notebook or Python script:
 
-Jupyter Notebook: Open ai_gamebot project.ipynb and run cells step by step.
+Jupyter Notebook: Open ai_gamebot.ipynb and run cells step by step.
 
 
-Python Script: python ai_gamebot project.py
+Python Script: python ai_gamebot.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
